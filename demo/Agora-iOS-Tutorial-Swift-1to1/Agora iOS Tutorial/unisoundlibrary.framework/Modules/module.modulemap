@@ -1,0 +1,6 @@
+framework module unisoundlibrary {
+  umbrella header "unisoundlibrary.h"
+
+  export *
+  module * { export * }
+}
