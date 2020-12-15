@@ -2,6 +2,10 @@
 
 > 工程导入unisoundlibrary.framework；
 
+> 下载声网sdk组件,下载地址：https://docs-preview.agoralab.co/cn/Interactive%20Broadcast/edu_release_note_ios?platform=iOS
+
+> 声网ios sdk解压后，将\libs\AgoraRtcEngineKit.framework下面的AgoraRtcEngineKit 拷贝到\iOS-SDK-For-ASR-CALL\demo\Agora-iOS-Tutorial-Swift-1to1\AgoraRtcEngineKit.framework\文件夹下面
+
  ## 1、首先实例化AsrParam
 
 > 例如
